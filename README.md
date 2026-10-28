@@ -10,7 +10,7 @@ This repository hosts a public copy of the assignment write-ups for this course 
 * [Episode 0928](./curator-personalis.md) Curator personalis
 * [Episode 1014](./edits-envs-execution.md) Edits, envs, and execution
 * [Episode 1026](./to-github-and-to-hold.md) To [Git]hub and to hold
-* **Epsiode 1109** The non-accidental programmer
+* [Epsiode 1109](./the-non-accidental-programmer.md) The non-accidental programmer
 * **Episode 1123** Dynamic duo
 * **Episode 1207** Welcome to the multiverse
 * **Episode 1214** Use the force you should not
